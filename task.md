@@ -13,3 +13,5 @@ write a html that fetch from database and make a graph and a word analysis for i
 
 # add migrations directory
 add two file in it, one is create table, one is insert data by converting /data/data.csv into sql
+
+test_message
